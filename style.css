@@ -1,0 +1,39 @@
+body {
+	height: 95vh;
+	width: 95;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	color: green;
+
+}
+
+h1,footer{
+		font-family: "Arial Black", sans-serif;
+}
+
+footer {
+	color: green;
+	font-family: sans-serif;
+	font-size: 14px;
+	word-spacing: 12px;
+}
+
+#nomecomposto {
+	word-spacing: 1px;
+}
+
+a{
+	text-decoration: none;
+	
+}
+
+a:visited {
+		color: green;
+}
+
+a:active{   
+	color: #00fa00;
+}
+
